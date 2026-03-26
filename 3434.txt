@@ -1,8 +1,3 @@
-#profile-title: bypass-13/23 t.me/rjsxrd
-#profile-update-interval: 48
-#support-url: https://t.me/rjsxrd
-#announce: t.me/rjsxrd
-
 vless://d3cecdcf-7fdf-4eae-9f9a-19eac9a16d6a@217.16.28.55:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp&headerType=none#tg@freekesha21-42%20t.me%2Frjsxrd
 vless://001a44d7-69e6-07d0-8d11-828fe2119621@212.193.157.118:443?encryption=none&type=ws&security=tls&path=//&host=lk-cdn.deploy-assure.ru&fp=chrome&sni=lk-cdn.deploy-assure.ru&alpn=h2,http/1.1#Шкатулка запретов%20t.me%2Frjsxrd
 vless://a22f6494-f371-07d0-bad0-8df9594b8e45@109.120.189.174:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#39.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI:%20ads.x5.ru%20%7C%20CIDR:%20?%20%7C%20TG:%20@solidtrust%20%7C%20Thanks:%20@solidtrust%20t.me%2Frjsxrd
